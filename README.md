@@ -23,13 +23,11 @@
 ---
 
 ### 🔗 Connect with me
-
 <p align="center">
-  <a href="https://linkedin.com/">
+  <a href="https://www.linkedin.com/in/kanna-banna-b5285938">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
-
 ---
 
 
