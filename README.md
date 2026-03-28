@@ -103,6 +103,89 @@ I am here to offer you the technical expertise and knowledge . Each student whil
 </div>
 
 ### 🛠 Skills
-- HTML, CSS, JavaScript
-- Git & GitHub
-- Learning DevOps 🚀
+# MygoMinds Technical Skills Matrix
+
+## Programming Languages
+- C#
+- Java
+- Python
+
+## UI Technologies
+- HTML5
+- CSS3
+- JavaScript
+
+## Databases & Storage
+- SQL Server
+- Azure SQL Database
+- Azure Blob Storage
+
+## .NET Technologies
+- ASP.NET
+- ADO.NET
+
+## .NET Web Frameworks
+- ASP.NET MVC
+- ASP.NET Core
+- WCF
+- Web API
+
+## ORM Frameworks
+- Entity Framework
+- Entity Framework Core
+
+## .NET Runtime Environments
+- .NET Framework
+- .NET Core / .NET
+
+## UI Frameworks & Libraries
+- Angular
+- ReactJS
+- Bootstrap
+
+## SDLC Models
+- Waterfall Model
+- V-Model
+- Spiral Model
+- Agile Model
+
+## Design Patterns
+- Singleton
+- Factory
+- MVC
+- MVVM
+
+## Architectures
+- Monolithic Architecture
+- Microservices Architecture
+- SAGA Pattern
+- Clean Architecture
+
+## Azure & DevOps
+- Azure Repos
+- Azure App Services
+- Azure Functions
+- Azure Service Bus
+- CI/CD Pipelines
+
+## AI / ML & Data Skills
+- Artificial Intelligence (AI)
+- Machine Learning (ML)
+- Prompt Engineering
+- AI-powered Application Development
+- Data Analytics Fundamentals
+
+## Tools & Platforms
+- GitHub
+- Postman
+- Swagger
+- Docker
+- Kubernetes
+
+## Additional Areas of Expertise
+- Cloud Computing
+- REST API Development
+- Version Control
+- Deployment Automation
+- Secure Application Development
+
