@@ -21,7 +21,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 <h3>
 <p>
-  <ol>
+  <ul>
     <li>
   Myself B.Kanna Babu, I am from Hyderabad (India) i am  working as  Corporate Trainer  with more than 15 years of Industry Experience  handling the Trainings for Dot-   NET,Java Online and Offline.
 </li>
@@ -33,7 +33,7 @@ I am here to offer you the technical expertise and knowledge . Each student whil
   FullStack Developer Trainer |  DevOps
       </li>
 </p>
-</ol>
+</ul>
 </h3>
 ---
 
