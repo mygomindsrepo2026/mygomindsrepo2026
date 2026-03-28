@@ -101,7 +101,7 @@ I am here to offer you the technical expertise and knowledge . Each student whil
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu" />
 </div>
-
+<h2>
 ### 🛠 Skills
 # MygoMinds Technical Skills Matrix
 
@@ -187,5 +187,6 @@ I am here to offer you the technical expertise and knowledge . Each student whil
 - REST API Development
 - Version Control
 - Deployment Automation
+</h2>
 - Secure Application Development
 
