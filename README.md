@@ -1,6 +1,7 @@
 ## Hi there 👋
-<img src="https://github.com/mygomindsrepo2026/kannababubanna/blob/main/assets/img.jpeg" />
-
+<a href="https://www.youtube.com/@KannababuBanna">
+<img src="https://yt3.googleusercontent.com/otRwT5Ru8BGY58AjO144_N4UmgRK80TDC4B8F5T6B8POgnZxo-ksO7GtX6upUEyY43Ab161IXg=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" />
+</a>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kanna-banna-b5285938">
