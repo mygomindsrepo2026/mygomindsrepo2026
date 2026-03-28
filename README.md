@@ -21,13 +21,19 @@
 <h3 align="left">👩‍💻  About Me</h3>
 <h3>
 <p>
-  Myself B.Kanna Babu, I am from Hyderabad (India) i am  working as  Corporate Trainer  with more than 15 years of Industry Experience  handling the Trainings for Dot-NET,Java Online and Offline.
-
+  <ol>
+    <li>
+  Myself B.Kanna Babu, I am from Hyderabad (India) i am  working as  Corporate Trainer  with more than 15 years of Industry Experience  handling the Trainings for Dot-   NET,Java Online and Offline.
+</li>
+    <li>
    The main aim of creating this Channel is to communicate with all the Students,  Devotees, aficionados of Java, Dot NET and others who are interested to explore Knowledge with their passion and dedication.
-
+</li>
+    <li>
 I am here to offer you the technical expertise and knowledge . Each student while studying his professional or technical course in the college will have a passion to become a developer in a good company. To fulfill their dream, I am striving from my side to help the aspirants provide enough Technical knowledge.🚀<br>
   FullStack Developer Trainer |  DevOps
+      </li>
 </p>
+</ol>
 </h3>
 ---
 
