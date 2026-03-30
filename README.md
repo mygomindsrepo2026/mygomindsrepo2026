@@ -96,6 +96,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
 </p>
+
 ---
 
 ## Real-Time Projects
@@ -107,6 +108,9 @@
 - Azure Cloud Deployment Projects
 
 >  Hands-on training with real industry use cases
+
+---
+
 
 ## kills Summary
 
@@ -128,6 +132,7 @@
 ## Contact
 
  Reach out via LinkedIn or YouTube for training & mentorship.
+ 
 <!-----
 ## GitHub Stats
 <p align="center">
@@ -142,6 +147,8 @@
   <img src="https://streak-stats.demolab.com?user=mygomindsrepo2026&theme=dark" />
 </p>
 --->
+
+---
     
 ###  Skills
 # MygoMinds Technical Skills Matrix
@@ -154,4 +161,6 @@
 - Databases: SQL Server, MySQL, MongoDB  
 - Cloud: Azure, AWS  
 - Tools: GitHub, Docker, Postman, Swagger  
+
+---
 
