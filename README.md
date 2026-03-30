@@ -148,7 +148,6 @@
 </p>
 --->
 
----
     
 ###  Skills
 # MygoMinds Technical Skills Matrix
