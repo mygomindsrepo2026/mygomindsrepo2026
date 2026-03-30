@@ -1,21 +1,10 @@
 <h1 align="center">Hey there 👋</h1>
-
 <p align="center">
-  <b>MygoMinds </b>
-  ---
-<p>
   <a href="https://www.youtube.com/results?search_query=mygominds">
-   <img src="https://yt3.googleusercontent.com/otRwT5Ru8BGY58AjO144_N4UmgRK80TDC4B8F5T6B8POgnZxo-ksO7GtX6upUEyY43Ab161IXg=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.ggpht.com/T0-kgbJPg-AyXKnj7F1bHGiDOQJOiGjDw6-niklUoMSP-IqdeSynEK0S3xQ4yM4cihVk6WLaQQ=s176-c-k-c0x00ffffff-no-rj-mo" width="12" />
+    <img src="https://yt3.ggpht.com/T0-kgbJPg-AyXKnj7F1bHGiDOQJOiGjDw6-niklUoMSP-IqdeSynEK0S3xQ4yM4cihVk6WLaQQ=s176-c-k-c0x00ffffff-no-rj-mo" height="40" style="vertical-align:middle;" />
+    <b style="font-size:20px; margin-left:10px;">MygoMinds</b>
   </a>
 </p>
-
----
-  <br>
-  Full Stack Development | .NET | Java | Azure | DevOps
-</p>
-
----
-
 <p align="center">
   <a href="https://www.youtube.com/@KannababuBanna">
     <img src="https://yt3.googleusercontent.com/otRwT5Ru8BGY58AjO144_N4UmgRK80TDC4B8F5T6B8POgnZxo-ksO7GtX6upUEyY43Ab161IXg=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" />
