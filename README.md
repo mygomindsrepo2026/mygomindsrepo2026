@@ -11,7 +11,7 @@
 
 ---
 
-## 🔗 Connect with Me
+##  Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kanna-banna-b5285938">
@@ -51,7 +51,7 @@
 
 ---
 
-## 🛠 Languages and Tools
+##  Languages and Tools
 
 ### Programming Languages
 <p>
@@ -59,7 +59,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
 </p>
-### Frontend
+### Frontend 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
@@ -67,7 +67,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" />
 </p>
-### Frameworks & Backend
+### Frameworks & Backend 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" />
@@ -127,7 +127,7 @@
   <img src="https://streak-stats.demolab.com?user=mygomindsrepo2026&theme=dark" />
 </p>
 <h2>
-### 🛠 Skills
+###  Skills
 # MygoMinds Technical Skills Matrix
 
 ### Skills Summary
