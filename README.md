@@ -59,6 +59,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
 </p>
+
 ### Frontend 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
@@ -67,6 +68,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" />
 </p>
+
 ### Frameworks & Backend 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" />
@@ -75,12 +77,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
 </p>
+
 ### Databases
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
 </p>
+
 ### Tools & Cloud
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40" />
@@ -92,6 +96,16 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
 </p>
 ---
+
+## Real-Time Projects
+
+- Employee Management System (.NET / SQL Server)
+- E-Commerce Application (React + Web API)
+- Student Management System
+- REST API & Microservices Projects
+- Azure Cloud Deployment Projects
+
+>  Hands-on training with real industry use cases
 
 ## kills Summary
 
@@ -112,21 +126,22 @@
 
 ## Contact
 
-📧 Reach out via LinkedIn or YouTube for training & mentorship.
-
-
+ Reach out via LinkedIn or YouTube for training & mentorship.
+<!-----
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mygomindsrepo2026&show_icons=true&theme=tokyonight" />
 </p>
-
+--->
 ---
-
+<!----
 ### Streak Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mygomindsrepo2026&theme=dark" />
 </p>
-<h2>
+--->
+    
 ###  Skills
 # MygoMinds Technical Skills Matrix
 
