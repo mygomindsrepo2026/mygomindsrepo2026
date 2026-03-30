@@ -1,6 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hey there 👋</h1>
+
+<p align="center">
+  <b>MygoMinds 🚀</b><br>
+  Full Stack Trainer | .NET | Java | Azure | DevOps
+</p>
 <a href="https://www.youtube.com/@KannababuBanna">
-<img src="https://yt3.googleusercontent.com/otRwT5Ru8BGY58AjO144_N4UmgRK80TDC4B8F5T6B8POgnZxo-ksO7GtX6upUEyY43Ab161IXg=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" />
+<img src="https://yt3.googleusercontent.com/otRwT5Ru8BGY58AjO144_N4UmgRK80TDC4B8F5T6B8POgnZxo-ksO7GtX6upUEyY43Ab161IXg=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" width="100" />
+</a>
+<a href="https://www.youtube.com/results?search_query=mygominds">
+<img href="https://yt3.ggpht.com/T0-kgbJPg-AyXKnj7F1bHGiDOQJOiGjDw6-niklUoMSP-IqdeSynEK0S3xQ4yM4cihVk6WLaQQ=s176-c-k-c0x00ffffff-no-rj-mo" />
 </a>
 
 <div align="center">
@@ -19,23 +27,12 @@
 </a>
 
 <h1 align="center">Hey there 👋</h1>
-<h3 align="left">👩‍💻  About Me</h3>
-<h3>
-<p>
-  <ul>
-    <li>
-  Myself B.Kanna Babu, I am from Hyderabad (India) i am  working as  Corporate Trainer  with more than 15 years of Industry Experience  handling the Trainings for Dot-   NET,Java Online and Offline.
-</li>
-    <li>
-   The main aim of creating this Channel is to communicate with all the Students,  Devotees, aficionados of Java, Dot NET and others who are interested to explore Knowledge with their passion and dedication.
-</li>
-    <li>
-I am here to offer you the technical expertise and knowledge . Each student while studying his professional or technical course in the college will have a passion to become a developer in a good company. To fulfill their dream, I am striving from my side to help the aspirants provide enough Technical knowledge.🚀<br>
-  FullStack Developer Trainer |  DevOps
-      </li>
+<h1 align="center">Hey there 👋</h1>
+
+<p align="center">
+  <b>MygoMinds 🚀</b><br>
+  Full Stack Trainer | .NET | Java | Azure | DevOps
 </p>
-</ul>
-</h3>
 ---
 
 ### 🔗 Connect with me
@@ -45,6 +42,15 @@ I am here to offer you the technical expertise and knowledge . Each student whil
   </a>
 </p>
 ---
+### 📚 Courses Offered
+
+- .NET Full Stack Development
+- Java Full Stack (Spring Boot)
+- Python Full Stack
+- Frontend (React / Angular)
+- Azure Cloud & DevOps
+- Web API & Microservices
+- 
 <h3 align="left">🛠 Languages and Tools</h3>
 
 <div align="left">
@@ -145,88 +151,12 @@ I am here to offer you the technical expertise and knowledge . Each student whil
 ### 🛠 Skills
 # MygoMinds Technical Skills Matrix
 
-## Programming Languages
-- C#
-- Java
-- Python
+### 🧠 Skills Summary
 
-## UI Technologies
-- HTML5
-- CSS3
-- JavaScript
-
-## Databases & Storage
-- SQL Server
-- Azure SQL Database
-- Azure Blob Storage
-
-## .NET Technologies
-- ASP.NET
-- ADO.NET
-
-## .NET Web Frameworks
-- ASP.NET MVC
-- ASP.NET Core
-- WCF
-- Web API
-
-## ORM Frameworks
-- Entity Framework
-- Entity Framework Core
-
-## .NET Runtime Environments
-- .NET Framework
-- .NET Core / .NET
-
-## UI Frameworks & Libraries
-- Angular
-- ReactJS
-- Bootstrap
-
-## SDLC Models
-- Waterfall Model
-- V-Model
-- Spiral Model
-- Agile Model
-
-## Design Patterns
-- Singleton
-- Factory
-- MVC
-- MVVM
-
-## Architectures
-- Monolithic Architecture
-- Microservices Architecture
-- SAGA Pattern
-- Clean Architecture
-
-## Azure & DevOps
-- Azure Repos
-- Azure App Services
-- Azure Functions
-- Azure Service Bus
-- CI/CD Pipelines
-
-## AI / ML & Data Skills
-- Artificial Intelligence (AI)
-- Machine Learning (ML)
-- Prompt Engineering
-- AI-powered Application Development
-- Data Analytics Fundamentals
-
-## Tools & Platforms
-- GitHub
-- Postman
-- Swagger
-- Docker
-- Kubernetes
-
-## Additional Areas of Expertise
-- Cloud Computing
-- REST API Development
-- Version Control
-- Deployment Automation
-</h2>
-- Secure Application Development
+- Programming: C#, Java, Python  
+- Frontend: HTML, CSS, JavaScript, React, Angular  
+- Backend: .NET, Spring Boot, Node.js  
+- Databases: SQL Server, MySQL, MongoDB  
+- Cloud: Azure, AWS  
+- Tools: GitHub, Docker, Postman, Swagger  
 
