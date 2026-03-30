@@ -104,11 +104,8 @@ I am here to offer you the technical expertise and knowledge . Each student whil
 </div>
 
 ---
-
-### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mygomindsrepo2026&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mygomindsrepo2026&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
